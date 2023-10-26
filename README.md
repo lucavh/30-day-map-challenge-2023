@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my #30DayMapChallenge repository! This project is a daily social mapping challenge happening every November. The challenge encourages participants to create maps based on different themes each day and share them using the hashtag #30DayMapChallenge.
+Welcome to my [#30DayMapChallenge](https://30daymapchallenge.com/) repository! This project is a daily social mapping challenge happening every November. The challenge encourages participants to create maps based on different themes each day and share them using the hashtag #30DayMapChallenge.
 
 This repo contains my submissions for the #30DayMapChallenge of 2023. I'll add my work daily throughout the month of November.
 
