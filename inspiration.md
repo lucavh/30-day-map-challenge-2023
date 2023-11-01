@@ -49,3 +49,6 @@ Other:
 - [OVapi](http://gtfs.ovapi.nl/openov-nl/)
 - http://data.openov.nl/
 - Integrale Mobiliteitsanalyse
+- [Lines and 3d](https://plotly.com/python/lines-on-maps/)
+- [Dataset US macdonalds](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
+- [Airbnb data](https://www.kaggle.com/code/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps)
